@@ -1,0 +1,14 @@
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/bin/Debug/net7.0/C#CalculatorApp
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/bin/Debug/net7.0/C#CalculatorApp.deps.json
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/bin/Debug/net7.0/C#CalculatorApp.runtimeconfig.json
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/bin/Debug/net7.0/C#CalculatorApp.dll
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/bin/Debug/net7.0/C#CalculatorApp.pdb
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.AssemblyInfoInputs.cache
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.AssemblyInfo.cs
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.dll
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/refint/C#CalculatorApp.dll
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.pdb
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/C#CalculatorApp.genruntimeconfig.cache
+/Users/devinmcdaniel/Documents/Development/C#CalculatorApp/obj/Debug/net7.0/ref/C#CalculatorApp.dll
